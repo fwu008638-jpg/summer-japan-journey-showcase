@@ -1,0 +1,2598 @@
+{
+  "title": "夏休み",
+  "subtitle": "盛夏西日本 · 16日旅行番",
+  "dateRange": "8.5 — 8.20",
+  "openingDuration": 5.0,
+  "endingDuration": 5.0,
+  "chapters": [
+    {
+      "id": "8-5",
+      "episode": 1,
+      "date": "8.5",
+      "city": "大阪",
+      "title": "临空城短停后进入大阪",
+      "summary": "从关西机场经临空城进入大阪，城市灯光拉开盛夏序章。",
+      "route": "关西机场 → 临空城 → 东三国 → 大阪市内",
+      "theme": {
+        "accent": "#73c8ff",
+        "warm": "#ff99bb",
+        "soft": "#d8fff3"
+      },
+      "artwork": "showcase-assets/art/day-01.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "落地",
+        "城市夜景"
+      ],
+      "stops": [
+        {
+          "id": "8-5-s1",
+          "publicName": "关西机场",
+          "latitude": 34.4347,
+          "longitude": 135.2441,
+          "time": "08:40 落地",
+          "highlight": true,
+          "caption": "关西机场 · 08:40 落地"
+        },
+        {
+          "id": "8-5-s2",
+          "publicName": "临空城 / 临空公园",
+          "latitude": 34.4105,
+          "longitude": 135.3007,
+          "time": "JR 一站 · 45–55 分钟短停",
+          "highlight": false,
+          "caption": "临空城 / 临空公园 · JR 一站 · 45–55 分钟短停"
+        },
+        {
+          "id": "8-5-s3",
+          "publicName": "难波",
+          "latitude": 34.6661,
+          "longitude": 135.5004,
+          "time": "南海电铁换御堂筋线",
+          "highlight": false,
+          "caption": "难波 · 南海电铁换御堂筋线"
+        },
+        {
+          "id": "8-5-s4",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "12:50–13:20 行李整理",
+          "highlight": true,
+          "caption": "东三国 · 12:50–13:20 行李整理"
+        },
+        {
+          "id": "8-5-s5",
+          "publicName": "淀屋桥 / 大阪市役所",
+          "latitude": 34.6939,
+          "longitude": 135.5022,
+          "time": "午餐机动",
+          "highlight": false,
+          "caption": "淀屋桥 / 大阪市役所 · 午餐机动"
+        },
+        {
+          "id": "8-5-s6",
+          "publicName": "大阪城",
+          "latitude": 34.6873,
+          "longitude": 135.5262,
+          "time": "14:30–16:15",
+          "highlight": true,
+          "caption": "大阪城 · 14:30–16:15"
+        },
+        {
+          "id": "8-5-s7",
+          "publicName": "天王寺 / Harukas",
+          "latitude": 34.6468,
+          "longitude": 135.5138,
+          "time": "公园、步道桥、16 楼庭院",
+          "highlight": false,
+          "caption": "天王寺 / Harukas · 公园、步道桥、16 楼庭院"
+        },
+        {
+          "id": "8-5-s8",
+          "publicName": "心斋桥 / 道顿堀",
+          "latitude": 34.6687,
+          "longitude": 135.5013,
+          "time": "晚餐与夜间收尾",
+          "highlight": false,
+          "caption": "心斋桥 / 道顿堀 · 晚餐与夜间收尾"
+        },
+        {
+          "id": "8-5-s9",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "21:30 前返回",
+          "highlight": true,
+          "caption": "东三国 · 21:30 前返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-5-s1",
+          "to": "8-5-s2",
+          "transport": "flight",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s2",
+          "to": "8-5-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s3",
+          "to": "8-5-s4",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s4",
+          "to": "8-5-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s5",
+          "to": "8-5-s6",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s6",
+          "to": "8-5-s7",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s7",
+          "to": "8-5-s8",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-5-s8",
+          "to": "8-5-s9",
+          "transport": "metro",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-5-s1",
+        "8-5-s4",
+        "8-5-s6",
+        "8-5-s9"
+      ]
+    },
+    {
+      "id": "8-6",
+      "episode": 2,
+      "date": "8.6",
+      "city": "箕面 / 万博 / 琵琶湖",
+      "title": "达摩寺、太阳之塔与湖上花火",
+      "summary": "胜尾寺的达摩、太阳之塔与琵琶湖花火组成关西篇高潮。",
+      "route": "大阪 → 胜尾寺 → 万博 → 大津 → 大阪",
+      "theme": {
+        "accent": "#69d4ff",
+        "warm": "#ffd54d",
+        "soft": "#b9f6d6"
+      },
+      "artwork": "showcase-assets/art/day-02.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "花火",
+        "达摩寺"
+      ],
+      "stops": [
+        {
+          "id": "8-6-s1",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "06:50 出发",
+          "highlight": true,
+          "caption": "东三国 · 06:50 出发"
+        },
+        {
+          "id": "8-6-s2",
+          "publicName": "箕面萱野",
+          "latitude": 34.8317,
+          "longitude": 135.4894,
+          "time": "北大阪急行换巴士",
+          "highlight": false,
+          "caption": "箕面萱野 · 北大阪急行换巴士"
+        },
+        {
+          "id": "8-6-s3",
+          "publicName": "胜尾寺",
+          "latitude": 34.865,
+          "longitude": 135.4911,
+          "time": "08:20–10:15",
+          "highlight": true,
+          "caption": "胜尾寺 · 08:20–10:15"
+        },
+        {
+          "id": "8-6-s4",
+          "publicName": "万博纪念公园 / 太阳之塔",
+          "latitude": 34.8092,
+          "longitude": 135.5329,
+          "time": "12:00 左右抵达",
+          "highlight": false,
+          "caption": "万博纪念公园 / 太阳之塔 · 12:00 左右抵达"
+        },
+        {
+          "id": "8-6-s5",
+          "publicName": "EXPOCITY",
+          "latitude": 34.8058,
+          "longitude": 135.5347,
+          "time": "午餐机动",
+          "highlight": true,
+          "caption": "EXPOCITY · 午餐机动"
+        },
+        {
+          "id": "8-6-s6",
+          "publicName": "大津 / 花火一般观览区",
+          "latitude": 35.0179,
+          "longitude": 135.8546,
+          "time": "19:30–20:30 花火",
+          "highlight": false,
+          "caption": "大津 / 花火一般观览区 · 19:30–20:30 花火"
+        },
+        {
+          "id": "8-6-s7",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "JR 返回大阪",
+          "highlight": true,
+          "caption": "东三国 · JR 返回大阪"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-6-s1",
+          "to": "8-6-s2",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-6-s2",
+          "to": "8-6-s3",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-6-s3",
+          "to": "8-6-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-6-s4",
+          "to": "8-6-s5",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-6-s5",
+          "to": "8-6-s6",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-6-s6",
+          "to": "8-6-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-6-s1",
+        "8-6-s3",
+        "8-6-s5",
+        "8-6-s7"
+      ]
+    },
+    {
+      "id": "8-7",
+      "episode": 3,
+      "date": "8.7",
+      "city": "友ヶ島 / 大阪站",
+      "title": "海岛巡礼与大阪站夜景",
+      "summary": "乘船越过湛蓝海面，在友ヶ島遗迹与灯塔之间寻找夏日风声。",
+      "route": "东三国 → 加太 → 友ヶ島 → 大阪站 → 东三国",
+      "theme": {
+        "accent": "#42c4ee",
+        "warm": "#ffb45d",
+        "soft": "#91e8d6"
+      },
+      "artwork": "showcase-assets/art/day-03.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "轮渡",
+        "海岛"
+      ],
+      "stops": [
+        {
+          "id": "8-7-s1",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "06:55 出发",
+          "highlight": true,
+          "caption": "东三国 · 06:55 出发"
+        },
+        {
+          "id": "8-7-s2",
+          "publicName": "加太港",
+          "latitude": 34.2768,
+          "longitude": 135.074,
+          "time": "09:15 左右领整理券",
+          "highlight": false,
+          "caption": "加太港 · 09:15 左右领整理券"
+        },
+        {
+          "id": "8-7-s3",
+          "publicName": "淡嶋神社 / 満幸商店",
+          "latitude": 34.2751,
+          "longitude": 135.0731,
+          "time": "神社与午餐",
+          "highlight": true,
+          "caption": "淡嶋神社 / 満幸商店 · 神社与午餐"
+        },
+        {
+          "id": "8-7-s4",
+          "publicName": "友ヶ島",
+          "latitude": 34.2818,
+          "longitude": 134.9984,
+          "time": "13:20–16:30 炮台与灯塔",
+          "highlight": false,
+          "caption": "友ヶ島 · 13:20–16:30 炮台与灯塔"
+        },
+        {
+          "id": "8-7-s5",
+          "publicName": "加太港",
+          "latitude": 34.2768,
+          "longitude": 135.074,
+          "time": "16:50 左右返港",
+          "highlight": false,
+          "caption": "加太港 · 16:50 左右返港"
+        },
+        {
+          "id": "8-7-s6",
+          "publicName": "大阪站 / カリヨン広場",
+          "latitude": 34.7025,
+          "longitude": 135.4959,
+          "time": "19:40 起夜间参观",
+          "highlight": true,
+          "caption": "大阪站 / カリヨン広場 · 19:40 起夜间参观"
+        },
+        {
+          "id": "8-7-s7",
+          "publicName": "KITTE Osaka",
+          "latitude": 34.7008,
+          "longitude": 135.4938,
+          "time": "晚餐与收尾",
+          "highlight": false,
+          "caption": "KITTE Osaka · 晚餐与收尾"
+        },
+        {
+          "id": "8-7-s8",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "21:15 左右返回",
+          "highlight": true,
+          "caption": "东三国 · 21:15 左右返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-7-s1",
+          "to": "8-7-s2",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s2",
+          "to": "8-7-s3",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s3",
+          "to": "8-7-s4",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s4",
+          "to": "8-7-s5",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s5",
+          "to": "8-7-s6",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s6",
+          "to": "8-7-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-7-s7",
+          "to": "8-7-s8",
+          "transport": "metro",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-7-s1",
+        "8-7-s3",
+        "8-7-s6",
+        "8-7-s8"
+      ]
+    },
+    {
+      "id": "8-8",
+      "episode": 4,
+      "date": "8.8",
+      "city": "京都 / 丰乡",
+      "title": "岚山、丰乡与伏见稻荷夜爬",
+      "summary": "从岚山清晨到丰乡校舍，再以伏见稻荷的千本鸟居结束一天。",
+      "route": "大阪 → 京都行李整理 → 岚山 → 丰乡 → 伏见稻荷",
+      "theme": {
+        "accent": "#5fb9ff",
+        "warm": "#f49dc3",
+        "soft": "#c7f6e7"
+      },
+      "artwork": "showcase-assets/art/day-04.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "古都",
+        "夜间参拜"
+      ],
+      "stops": [
+        {
+          "id": "8-8-s1",
+          "publicName": "东三国",
+          "latitude": 34.74,
+          "longitude": 135.4985,
+          "time": "06:30 行程节点",
+          "highlight": true,
+          "caption": "东三国 · 06:30 行程节点"
+        },
+        {
+          "id": "8-8-s2",
+          "publicName": "京都站",
+          "latitude": 34.9858,
+          "longitude": 135.7588,
+          "time": "07:20–07:40 行李整理",
+          "highlight": false,
+          "caption": "京都站 · 07:20–07:40 行李整理"
+        },
+        {
+          "id": "8-8-s3",
+          "publicName": "愛宕念仏寺",
+          "latitude": 35.031,
+          "longitude": 135.6616,
+          "time": "岚山上游起点",
+          "highlight": false,
+          "caption": "愛宕念仏寺 · 岚山上游起点"
+        },
+        {
+          "id": "8-8-s4",
+          "publicName": "鸟居本",
+          "latitude": 35.0271,
+          "longitude": 135.6651,
+          "time": "步行",
+          "highlight": true,
+          "caption": "鸟居本 · 步行"
+        },
+        {
+          "id": "8-8-s5",
+          "publicName": "祇王寺",
+          "latitude": 35.0205,
+          "longitude": 135.6665,
+          "time": "步行",
+          "highlight": false,
+          "caption": "祇王寺 · 步行"
+        },
+        {
+          "id": "8-8-s6",
+          "publicName": "岚山竹林 / 野宫神社",
+          "latitude": 35.017,
+          "longitude": 135.6713,
+          "time": "11:15 前撤离",
+          "highlight": false,
+          "caption": "岚山竹林 / 野宫神社 · 11:15 前撤离"
+        },
+        {
+          "id": "8-8-s7",
+          "publicName": "嵯峨嵐山站",
+          "latitude": 35.0187,
+          "longitude": 135.6813,
+          "time": "返回京都站",
+          "highlight": true,
+          "caption": "嵯峨嵐山站 · 返回京都站"
+        },
+        {
+          "id": "8-8-s8",
+          "publicName": "丰乡小学校旧校舍",
+          "latitude": 35.2034,
+          "longitude": 136.2309,
+          "time": "13:40–16:20",
+          "highlight": false,
+          "caption": "丰乡小学校旧校舍 · 13:40–16:20"
+        },
+        {
+          "id": "8-8-s9",
+          "publicName": "京都站",
+          "latitude": 34.9858,
+          "longitude": 135.7588,
+          "time": "18:00 后行程节点",
+          "highlight": false,
+          "caption": "京都站 · 18:00 后行程节点"
+        },
+        {
+          "id": "8-8-s10",
+          "publicName": "伏见稻荷大社",
+          "latitude": 34.9671,
+          "longitude": 135.7727,
+          "time": "19:30–22:00 夜爬",
+          "highlight": true,
+          "caption": "伏见稻荷大社 · 19:30–22:00 夜爬"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-8-s1",
+          "to": "8-8-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s2",
+          "to": "8-8-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s3",
+          "to": "8-8-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s4",
+          "to": "8-8-s5",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s5",
+          "to": "8-8-s6",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s6",
+          "to": "8-8-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s7",
+          "to": "8-8-s8",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s8",
+          "to": "8-8-s9",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-8-s9",
+          "to": "8-8-s10",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-8-s1",
+        "8-8-s4",
+        "8-8-s7",
+        "8-8-s10"
+      ]
+    },
+    {
+      "id": "8-9",
+      "episode": 5,
+      "date": "8.9",
+      "city": "贵船 / 洛北 / 京都市区",
+      "title": "贵船溪谷、鸭川与京都大学",
+      "summary": "沿贵船溪谷回到鸭川，把午后完整留给京都大学与河原町。",
+      "route": "京都站 → 贵船 → 出町柳 → 京都大学 → 四条河原町",
+      "theme": {
+        "accent": "#547de7",
+        "warm": "#ef9bc5",
+        "soft": "#b0f0dd"
+      },
+      "artwork": "showcase-assets/art/day-05.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "溪谷",
+        "鸭川"
+      ],
+      "stops": [
+        {
+          "id": "8-9-s1",
+          "publicName": "京都站",
+          "latitude": 34.9858,
+          "longitude": 135.7588,
+          "time": "06:30 出发",
+          "highlight": true,
+          "caption": "京都站 · 06:30 出发"
+        },
+        {
+          "id": "8-9-s2",
+          "publicName": "出町柳",
+          "latitude": 35.0307,
+          "longitude": 135.773,
+          "time": "京阪换叡山电车",
+          "highlight": false,
+          "caption": "出町柳 · 京阪换叡山电车"
+        },
+        {
+          "id": "8-9-s3",
+          "publicName": "贵船口",
+          "latitude": 35.1059,
+          "longitude": 135.763,
+          "time": "08:00 左右抵达",
+          "highlight": false,
+          "caption": "贵船口 · 08:00 左右抵达"
+        },
+        {
+          "id": "8-9-s4",
+          "publicName": "贵船神社",
+          "latitude": 35.1218,
+          "longitude": 135.7628,
+          "time": "08:15–10:15",
+          "highlight": false,
+          "caption": "贵船神社 · 08:15–10:15"
+        },
+        {
+          "id": "8-9-s5",
+          "publicName": "天ぷら鈴 / 出町柳",
+          "latitude": 35.0302,
+          "longitude": 135.7722,
+          "time": "12:00 左右午餐",
+          "highlight": true,
+          "caption": "天ぷら鈴 / 出町柳 · 12:00 左右午餐"
+        },
+        {
+          "id": "8-9-s6",
+          "publicName": "下鸭神社",
+          "latitude": 35.0389,
+          "longitude": 135.7724,
+          "time": "13:00 起",
+          "highlight": false,
+          "caption": "下鸭神社 · 13:00 起"
+        },
+        {
+          "id": "8-9-s7",
+          "publicName": "河合神社",
+          "latitude": 35.0347,
+          "longitude": 135.7722,
+          "time": "步行",
+          "highlight": false,
+          "caption": "河合神社 · 步行"
+        },
+        {
+          "id": "8-9-s8",
+          "publicName": "鸭川三角洲",
+          "latitude": 35.0307,
+          "longitude": 135.7727,
+          "time": "鸭川与高野川交汇处",
+          "highlight": true,
+          "caption": "鸭川三角洲 · 鸭川与高野川交汇处"
+        },
+        {
+          "id": "8-9-s9",
+          "publicName": "出町桝形商店街",
+          "latitude": 35.0294,
+          "longitude": 135.768,
+          "time": "圣地巡礼",
+          "highlight": false,
+          "caption": "出町桝形商店街 · 圣地巡礼"
+        },
+        {
+          "id": "8-9-s10",
+          "publicName": "京都大学",
+          "latitude": 35.0263,
+          "longitude": 135.7808,
+          "time": "15:00–16:30",
+          "highlight": false,
+          "caption": "京都大学 · 15:00–16:30"
+        },
+        {
+          "id": "8-9-s11",
+          "publicName": "四条河原町 / 先斗町",
+          "latitude": 35.0037,
+          "longitude": 135.7686,
+          "time": "17:00–21:00",
+          "highlight": false,
+          "caption": "四条河原町 / 先斗町 · 17:00–21:00"
+        },
+        {
+          "id": "8-9-s12",
+          "publicName": "京都站",
+          "latitude": 34.9858,
+          "longitude": 135.7588,
+          "time": "晚间返回",
+          "highlight": true,
+          "caption": "京都站 · 晚间返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-9-s1",
+          "to": "8-9-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s2",
+          "to": "8-9-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s3",
+          "to": "8-9-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s4",
+          "to": "8-9-s5",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s5",
+          "to": "8-9-s6",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s6",
+          "to": "8-9-s7",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s7",
+          "to": "8-9-s8",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s8",
+          "to": "8-9-s9",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s9",
+          "to": "8-9-s10",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s10",
+          "to": "8-9-s11",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-9-s11",
+          "to": "8-9-s12",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-9-s1",
+        "8-9-s5",
+        "8-9-s8",
+        "8-9-s12"
+      ]
+    },
+    {
+      "id": "8-10",
+      "episode": 6,
+      "date": "8.10",
+      "city": "神户 / 姬路",
+      "title": "先行李整理，再沿 JR 走海峡与城郭",
+      "summary": "沿 JR 穿行海峡与城郭，在神户港的金色夜景中收束。",
+      "route": "京都 → 三宫行李整理 → 舞子 → 姬路 → 神户市区",
+      "theme": {
+        "accent": "#4ebcff",
+        "warm": "#ffbf67",
+        "soft": "#d6efff"
+      },
+      "artwork": "showcase-assets/art/day-06.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "海峡",
+        "港都"
+      ],
+      "stops": [
+        {
+          "id": "8-10-s1",
+          "publicName": "京都站",
+          "latitude": 34.9858,
+          "longitude": 135.7588,
+          "time": "07:10–07:20 出发",
+          "highlight": true,
+          "caption": "京都站 · 07:10–07:20 出发"
+        },
+        {
+          "id": "8-10-s2",
+          "publicName": "三宫",
+          "latitude": 34.6968,
+          "longitude": 135.19,
+          "time": "08:15–08:35 行李整理",
+          "highlight": false,
+          "caption": "三宫 · 08:15–08:35 行李整理"
+        },
+        {
+          "id": "8-10-s3",
+          "publicName": "舞子公园 / 明石海峡大桥",
+          "latitude": 34.6313,
+          "longitude": 135.0342,
+          "time": "09:05–09:50",
+          "highlight": false,
+          "caption": "舞子公园 / 明石海峡大桥 · 09:05–09:50"
+        },
+        {
+          "id": "8-10-s4",
+          "publicName": "姬路城",
+          "latitude": 34.8394,
+          "longitude": 134.6939,
+          "time": "11:00–13:30",
+          "highlight": true,
+          "caption": "姬路城 · 11:00–13:30"
+        },
+        {
+          "id": "8-10-s5",
+          "publicName": "新长田铁人 28 号",
+          "latitude": 34.6565,
+          "longitude": 135.1445,
+          "time": "机动点",
+          "highlight": false,
+          "caption": "新长田铁人 28 号 · 机动点"
+        },
+        {
+          "id": "8-10-s6",
+          "publicName": "生田神社",
+          "latitude": 34.6951,
+          "longitude": 135.1909,
+          "time": "16:00 起",
+          "highlight": false,
+          "caption": "生田神社 · 16:00 起"
+        },
+        {
+          "id": "8-10-s7",
+          "publicName": "北野异人馆街",
+          "latitude": 34.7014,
+          "longitude": 135.1894,
+          "time": "步行上坡",
+          "highlight": true,
+          "caption": "北野异人馆街 · 步行上坡"
+        },
+        {
+          "id": "8-10-s8",
+          "publicName": "维纳斯桥",
+          "latitude": 34.6991,
+          "longitude": 135.1783,
+          "time": "体力不足时删除",
+          "highlight": false,
+          "caption": "维纳斯桥 · 体力不足时删除"
+        },
+        {
+          "id": "8-10-s9",
+          "publicName": "神户港",
+          "latitude": 34.6826,
+          "longitude": 135.188,
+          "time": "夜景收尾",
+          "highlight": false,
+          "caption": "神户港 · 夜景收尾"
+        },
+        {
+          "id": "8-10-s10",
+          "publicName": "三宫",
+          "latitude": 34.6968,
+          "longitude": 135.19,
+          "time": "20:00 前后返回",
+          "highlight": true,
+          "caption": "三宫 · 20:00 前后返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-10-s1",
+          "to": "8-10-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s2",
+          "to": "8-10-s3",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s3",
+          "to": "8-10-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s4",
+          "to": "8-10-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s5",
+          "to": "8-10-s6",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s6",
+          "to": "8-10-s7",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s7",
+          "to": "8-10-s8",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s8",
+          "to": "8-10-s9",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-10-s9",
+          "to": "8-10-s10",
+          "transport": "metro",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-10-s1",
+        "8-10-s4",
+        "8-10-s7",
+        "8-10-s10"
+      ]
+    },
+    {
+      "id": "8-11",
+      "episode": 7,
+      "date": "8.11",
+      "city": "高松 / 男木岛",
+      "title": "早班高速巴士与男木岛夏日增班",
+      "summary": "高速巴士跨海抵达高松，再乘轮渡前往男木岛。",
+      "route": "神户三宫 → 高松行李整理 → 玉藻公园 → 男木岛",
+      "theme": {
+        "accent": "#26c6b8",
+        "warm": "#ffd75e",
+        "soft": "#a7e681"
+      },
+      "artwork": "showcase-assets/art/day-07.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "高速巴士",
+        "岛旅"
+      ],
+      "stops": [
+        {
+          "id": "8-11-s1",
+          "publicName": "神户三宫巴士总站",
+          "latitude": 34.6949,
+          "longitude": 135.1952,
+          "time": "07:05 高速巴士",
+          "highlight": true,
+          "caption": "神户三宫巴士总站 · 07:05 高速巴士"
+        },
+        {
+          "id": "8-11-s2",
+          "publicName": "高松站",
+          "latitude": 34.3507,
+          "longitude": 134.0468,
+          "time": "09:57 抵达",
+          "highlight": false,
+          "caption": "高松站 · 09:57 抵达"
+        },
+        {
+          "id": "8-11-s3",
+          "publicName": "高松市区",
+          "latitude": 34.346,
+          "longitude": 134.051,
+          "time": "10:05–10:20 行李整理",
+          "highlight": true,
+          "caption": "高松市区 · 10:05–10:20 行李整理"
+        },
+        {
+          "id": "8-11-s4",
+          "publicName": "玉藻公园",
+          "latitude": 34.3517,
+          "longitude": 134.052,
+          "time": "10:25–11:20",
+          "highlight": false,
+          "caption": "玉藻公园 · 10:25–11:20"
+        },
+        {
+          "id": "8-11-s5",
+          "publicName": "高松港",
+          "latitude": 34.352,
+          "longitude": 134.0466,
+          "time": "12:00 出航",
+          "highlight": false,
+          "caption": "高松港 · 12:00 出航"
+        },
+        {
+          "id": "8-11-s6",
+          "publicName": "男木岛",
+          "latitude": 34.4215,
+          "longitude": 134.054,
+          "time": "12:40–17:00",
+          "highlight": true,
+          "caption": "男木岛 · 12:40–17:00"
+        },
+        {
+          "id": "8-11-s7",
+          "publicName": "高松港",
+          "latitude": 34.352,
+          "longitude": 134.0466,
+          "time": "17:40 主方案返港",
+          "highlight": false,
+          "caption": "高松港 · 17:40 主方案返港"
+        },
+        {
+          "id": "8-11-s8",
+          "publicName": "片原町 / 高松站",
+          "latitude": 34.3467,
+          "longitude": 134.0502,
+          "time": "晚餐与休息",
+          "highlight": true,
+          "caption": "片原町 / 高松站 · 晚餐与休息"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-11-s1",
+          "to": "8-11-s2",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s2",
+          "to": "8-11-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s3",
+          "to": "8-11-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s4",
+          "to": "8-11-s5",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s5",
+          "to": "8-11-s6",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s6",
+          "to": "8-11-s7",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-11-s7",
+          "to": "8-11-s8",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-11-s1",
+        "8-11-s3",
+        "8-11-s6",
+        "8-11-s8"
+      ]
+    },
+    {
+      "id": "8-12",
+      "episode": 8,
+      "date": "8.12",
+      "city": "尾道 / 岛波海道",
+      "title": "三岛骑行、瀬戸田客船与千光寺",
+      "summary": "骑行穿过三座岛与白色大桥，乘船回到尾道看山城日落。",
+      "route": "高松 → 尾道 → 向岛 → 因岛 → 生口岛 → 尾道",
+      "theme": {
+        "accent": "#29bfae",
+        "warm": "#ffca62",
+        "soft": "#76d99d"
+      },
+      "artwork": "showcase-assets/art/day-08.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "自行车",
+        "岛波海道"
+      ],
+      "stops": [
+        {
+          "id": "8-12-s1",
+          "publicName": "高松站",
+          "latitude": 34.3507,
+          "longitude": 134.0468,
+          "time": "06:00 左右 JR 出发",
+          "highlight": true,
+          "caption": "高松站 · 06:00 左右 JR 出发"
+        },
+        {
+          "id": "8-12-s2",
+          "publicName": "冈山站",
+          "latitude": 34.6664,
+          "longitude": 133.9186,
+          "time": "JR 换乘",
+          "highlight": false,
+          "caption": "冈山站 · JR 换乘"
+        },
+        {
+          "id": "8-12-s3",
+          "publicName": "尾道站 / 租车点",
+          "latitude": 34.4049,
+          "longitude": 133.1936,
+          "time": "09:00 左右取车",
+          "highlight": false,
+          "caption": "尾道站 / 租车点 · 09:00 左右取车"
+        },
+        {
+          "id": "8-12-s4",
+          "publicName": "向岛",
+          "latitude": 34.3788,
+          "longitude": 133.1988,
+          "time": "骑行第一岛",
+          "highlight": true,
+          "caption": "向岛 · 骑行第一岛"
+        },
+        {
+          "id": "8-12-s5",
+          "publicName": "因岛",
+          "latitude": 34.315,
+          "longitude": 133.1815,
+          "time": "骑行第二岛",
+          "highlight": false,
+          "caption": "因岛 · 骑行第二岛"
+        },
+        {
+          "id": "8-12-s6",
+          "publicName": "生口岛 / 瀬戸田港",
+          "latitude": 34.3033,
+          "longitude": 133.0896,
+          "time": "13:25 主方案登船",
+          "highlight": false,
+          "caption": "生口岛 / 瀬戸田港 · 13:25 主方案登船"
+        },
+        {
+          "id": "8-12-s7",
+          "publicName": "尾道港",
+          "latitude": 34.404,
+          "longitude": 133.1965,
+          "time": "14:09 返港",
+          "highlight": true,
+          "caption": "尾道港 · 14:09 返港"
+        },
+        {
+          "id": "8-12-s8",
+          "publicName": "千光寺山索道",
+          "latitude": 34.4087,
+          "longitude": 133.2005,
+          "time": "15:00 前后上山",
+          "highlight": false,
+          "caption": "千光寺山索道 · 15:00 前后上山"
+        },
+        {
+          "id": "8-12-s9",
+          "publicName": "千光寺 / 猫之细道",
+          "latitude": 34.4097,
+          "longitude": 133.1979,
+          "time": "步行下山",
+          "highlight": false,
+          "caption": "千光寺 / 猫之细道 · 步行下山"
+        },
+        {
+          "id": "8-12-s10",
+          "publicName": "尾道山麓",
+          "latitude": 34.4102,
+          "longitude": 133.1987,
+          "time": "办理行程节点",
+          "highlight": true,
+          "caption": "尾道山麓 · 办理行程节点"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-12-s1",
+          "to": "8-12-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s2",
+          "to": "8-12-s3",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s3",
+          "to": "8-12-s4",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s4",
+          "to": "8-12-s5",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s5",
+          "to": "8-12-s6",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s6",
+          "to": "8-12-s7",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s7",
+          "to": "8-12-s8",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s8",
+          "to": "8-12-s9",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-12-s9",
+          "to": "8-12-s10",
+          "transport": "walk",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-12-s1",
+        "8-12-s4",
+        "8-12-s7",
+        "8-12-s10"
+      ]
+    },
+    {
+      "id": "8-13",
+      "episode": 9,
+      "date": "8.13",
+      "city": "宫岛 / 广岛 / 夜巴",
+      "title": "宫岛在前，资料馆与夜巴在后",
+      "summary": "从宫岛海上鸟居走向广岛黄昏，深夜乘巴士驶向九州。",
+      "route": "尾道 → 广岛行李整理 → 宫岛 → 和平公园 → YJ1752",
+      "theme": {
+        "accent": "#315da8",
+        "warm": "#f05b4f",
+        "soft": "#ffb66d"
+      },
+      "artwork": "showcase-assets/art/day-09.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "宫岛",
+        "夜行巴士"
+      ],
+      "stops": [
+        {
+          "id": "8-13-s1",
+          "publicName": "尾道站",
+          "latitude": 34.4049,
+          "longitude": 133.1936,
+          "time": "07:20 左右出发",
+          "highlight": true,
+          "caption": "尾道站 · 07:20 左右出发"
+        },
+        {
+          "id": "8-13-s2",
+          "publicName": "广岛站",
+          "latitude": 34.3975,
+          "longitude": 132.4753,
+          "time": "09:00 左右行李整理",
+          "highlight": false,
+          "caption": "广岛站 · 09:00 左右行李整理"
+        },
+        {
+          "id": "8-13-s3",
+          "publicName": "宫岛口",
+          "latitude": 34.3122,
+          "longitude": 132.3023,
+          "time": "JR + 步行",
+          "highlight": true,
+          "caption": "宫岛口 · JR + 步行"
+        },
+        {
+          "id": "8-13-s4",
+          "publicName": "宫岛 / 严岛神社",
+          "latitude": 34.2959,
+          "longitude": 132.3199,
+          "time": "10:00–14:30",
+          "highlight": false,
+          "caption": "宫岛 / 严岛神社 · 10:00–14:30"
+        },
+        {
+          "id": "8-13-s5",
+          "publicName": "和平纪念公园",
+          "latitude": 34.3916,
+          "longitude": 132.4524,
+          "time": "16:00–17:15",
+          "highlight": false,
+          "caption": "和平纪念公园 · 16:00–17:15"
+        },
+        {
+          "id": "8-13-s6",
+          "publicName": "和平纪念资料馆",
+          "latitude": 34.391,
+          "longitude": 132.4536,
+          "time": "17:30 / 18:00 行程节点",
+          "highlight": true,
+          "caption": "和平纪念资料馆 · 17:30 / 18:00 行程节点"
+        },
+        {
+          "id": "8-13-s7",
+          "publicName": "广岛站北口巴士站",
+          "latitude": 34.399,
+          "longitude": 132.478,
+          "time": "21:50 前到站",
+          "highlight": false,
+          "caption": "广岛站北口巴士站 · 21:50 前到站"
+        },
+        {
+          "id": "8-13-s8",
+          "publicName": "基山 PA",
+          "latitude": 33.4519,
+          "longitude": 130.5322,
+          "time": "YJ1752 · 22:30–06:05",
+          "highlight": true,
+          "caption": "基山 PA · YJ1752 · 22:30–06:05"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-13-s1",
+          "to": "8-13-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s2",
+          "to": "8-13-s3",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s3",
+          "to": "8-13-s4",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s4",
+          "to": "8-13-s5",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s5",
+          "to": "8-13-s6",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s6",
+          "to": "8-13-s7",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-13-s7",
+          "to": "8-13-s8",
+          "transport": "bus",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-13-s1",
+        "8-13-s3",
+        "8-13-s6",
+        "8-13-s8"
+      ]
+    },
+    {
+      "id": "8-14",
+      "episode": 10,
+      "date": "8.14",
+      "city": "日田 / 熊本",
+      "title": "基山换乘与日田四个硬节点",
+      "summary": "清晨抵达日田，在老街、河岸与山间水坝之间缓慢行走。",
+      "route": "基山 PA → 日田 → ANNEX → 本馆 → 大山水坝 → 熊本",
+      "theme": {
+        "accent": "#6fb070",
+        "warm": "#df9a55",
+        "soft": "#efe3c1"
+      },
+      "artwork": "showcase-assets/art/day-10.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "河川小城",
+        "水坝"
+      ],
+      "stops": [
+        {
+          "id": "8-14-s1",
+          "publicName": "基山 PA",
+          "latitude": 33.4519,
+          "longitude": 130.5322,
+          "time": "06:05 抵达",
+          "highlight": true,
+          "caption": "基山 PA · 06:05 抵达"
+        },
+        {
+          "id": "8-14-s2",
+          "publicName": "日田巴士中心",
+          "latitude": 33.317,
+          "longitude": 130.937,
+          "time": "07:22–08:20 ひた号",
+          "highlight": false,
+          "caption": "日田巴士中心 · 07:22–08:20 ひた号"
+        },
+        {
+          "id": "8-14-s3",
+          "publicName": "進撃の巨人 in HITA ANNEX",
+          "latitude": 33.3213,
+          "longitude": 130.9409,
+          "time": "09:54–10:55",
+          "highlight": false,
+          "caption": "進撃の巨人 in HITA ANNEX · 09:54–10:55"
+        },
+        {
+          "id": "8-14-s4",
+          "publicName": "水辺の郷おおやま本馆",
+          "latitude": 33.221,
+          "longitude": 130.9699,
+          "time": "11:18 抵达",
+          "highlight": true,
+          "caption": "水辺の郷おおやま本馆 · 11:18 抵达"
+        },
+        {
+          "id": "8-14-s5",
+          "publicName": "中川原",
+          "latitude": 33.2218,
+          "longitude": 130.9646,
+          "time": "12:31 下车",
+          "highlight": false,
+          "caption": "中川原 · 12:31 下车"
+        },
+        {
+          "id": "8-14-s6",
+          "publicName": "大山ダム",
+          "latitude": 33.2168,
+          "longitude": 130.9688,
+          "time": "天气稳定时步行",
+          "highlight": true,
+          "caption": "大山ダム · 天气稳定时步行"
+        },
+        {
+          "id": "8-14-s7",
+          "publicName": "日田站",
+          "latitude": 33.317,
+          "longitude": 130.937,
+          "time": "16:20 返回",
+          "highlight": false,
+          "caption": "日田站 · 16:20 返回"
+        },
+        {
+          "id": "8-14-s8",
+          "publicName": "熊本站",
+          "latitude": 32.7904,
+          "longitude": 130.689,
+          "time": "17 点档 JR",
+          "highlight": false,
+          "caption": "熊本站 · 17 点档 JR"
+        },
+        {
+          "id": "8-14-s9",
+          "publicName": "洗马桥",
+          "latitude": 32.8,
+          "longitude": 130.6972,
+          "time": "约 19:00 行程节点",
+          "highlight": true,
+          "caption": "洗马桥 · 约 19:00 行程节点"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-14-s1",
+          "to": "8-14-s2",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s2",
+          "to": "8-14-s3",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s3",
+          "to": "8-14-s4",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s4",
+          "to": "8-14-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s5",
+          "to": "8-14-s6",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s6",
+          "to": "8-14-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s7",
+          "to": "8-14-s8",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-14-s8",
+          "to": "8-14-s9",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-14-s1",
+        "8-14-s4",
+        "8-14-s6",
+        "8-14-s9"
+      ]
+    },
+    {
+      "id": "8-15",
+      "episode": 11,
+      "date": "8.15",
+      "city": "高森 / 阿苏",
+      "title": "骑行上色见，再抢 12:43 巴士",
+      "summary": "从高森骑向杉林神社，再进入辽阔的阿苏草原与火山地貌。",
+      "route": "熊本 → 高森 → 上色见 → 阿苏山上 → 草千里 → 熊本",
+      "theme": {
+        "accent": "#4f9f57",
+        "warm": "#e34f43",
+        "soft": "#badb77"
+      },
+      "artwork": "showcase-assets/art/day-11.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "自行车",
+        "火山"
+      ],
+      "stops": [
+        {
+          "id": "8-15-s1",
+          "publicName": "洗马桥",
+          "latitude": 32.8,
+          "longitude": 130.6972,
+          "time": "05:55 打车出发",
+          "highlight": true,
+          "caption": "洗马桥 · 05:55 打车出发"
+        },
+        {
+          "id": "8-15-s2",
+          "publicName": "熊本站",
+          "latitude": 32.7904,
+          "longitude": 130.689,
+          "time": "06:30 左右联运",
+          "highlight": false,
+          "caption": "熊本站 · 06:30 左右联运"
+        },
+        {
+          "id": "8-15-s3",
+          "publicName": "高森站",
+          "latitude": 32.8194,
+          "longitude": 131.1229,
+          "time": "约 08:15 抵达",
+          "highlight": false,
+          "caption": "高森站 · 约 08:15 抵达"
+        },
+        {
+          "id": "8-15-s4",
+          "publicName": "上色见熊野座神社",
+          "latitude": 32.8822,
+          "longitude": 131.159,
+          "time": "09:10–11:00 电助力骑行",
+          "highlight": true,
+          "caption": "上色见熊野座神社 · 09:10–11:00 电助力骑行"
+        },
+        {
+          "id": "8-15-s5",
+          "publicName": "高森站",
+          "latitude": 32.8194,
+          "longitude": 131.1229,
+          "time": "11:50 前还车；12:15 前排队",
+          "highlight": false,
+          "caption": "高森站 · 11:50 前还车；12:15 前排队"
+        },
+        {
+          "id": "8-15-s6",
+          "publicName": "阿苏山上终点",
+          "latitude": 32.8849,
+          "longitude": 131.0858,
+          "time": "12:43–13:17 非行程节点巴士",
+          "highlight": false,
+          "caption": "阿苏山上终点 · 12:43–13:17 非行程节点巴士"
+        },
+        {
+          "id": "8-15-s7",
+          "publicName": "中岳火口",
+          "latitude": 32.884,
+          "longitude": 131.104,
+          "time": "开放时 13:30 接驳",
+          "highlight": true,
+          "caption": "中岳火口 · 开放时 13:30 接驳"
+        },
+        {
+          "id": "8-15-s8",
+          "publicName": "草千里",
+          "latitude": 32.8844,
+          "longitude": 131.052,
+          "time": "14:30–16:35",
+          "highlight": false,
+          "caption": "草千里 · 14:30–16:35"
+        },
+        {
+          "id": "8-15-s9",
+          "publicName": "阿苏站",
+          "latitude": 32.9375,
+          "longitude": 131.0801,
+          "time": "17:03 抵达",
+          "highlight": false,
+          "caption": "阿苏站 · 17:03 抵达"
+        },
+        {
+          "id": "8-15-s10",
+          "publicName": "熊本市区",
+          "latitude": 32.8,
+          "longitude": 130.6972,
+          "time": "JR 返回",
+          "highlight": true,
+          "caption": "熊本市区 · JR 返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-15-s1",
+          "to": "8-15-s2",
+          "transport": "taxi",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s2",
+          "to": "8-15-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s3",
+          "to": "8-15-s4",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s4",
+          "to": "8-15-s5",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s5",
+          "to": "8-15-s6",
+          "transport": "bicycle",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s6",
+          "to": "8-15-s7",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s7",
+          "to": "8-15-s8",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s8",
+          "to": "8-15-s9",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-15-s9",
+          "to": "8-15-s10",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-15-s1",
+        "8-15-s4",
+        "8-15-s7",
+        "8-15-s10"
+      ]
+    },
+    {
+      "id": "8-16",
+      "episode": 12,
+      "date": "8.16",
+      "city": "熊本 / 鹿儿岛",
+      "title": "熊本由东向西收束，再乘新干线南下",
+      "summary": "水前寺与熊本城之后，乘新干线向鹿儿岛晚霞前进。",
+      "route": "洗馬橋 → 熊本站行李整理 → 水前寺 → 县厅 → 熊本城 → 鹿儿岛",
+      "theme": {
+        "accent": "#1f526e",
+        "warm": "#f36b3d",
+        "soft": "#70b88f"
+      },
+      "artwork": "showcase-assets/art/day-12.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "庭园",
+        "新干线"
+      ],
+      "stops": [
+        {
+          "id": "8-16-s1",
+          "publicName": "洗马桥",
+          "latitude": 32.8,
+          "longitude": 130.6972,
+          "time": "07:30 行程节点",
+          "highlight": true,
+          "caption": "洗马桥 · 07:30 行程节点"
+        },
+        {
+          "id": "8-16-s2",
+          "publicName": "熊本站",
+          "latitude": 32.7904,
+          "longitude": 130.689,
+          "time": "07:55 行李整理",
+          "highlight": false,
+          "caption": "熊本站 · 07:55 行李整理"
+        },
+        {
+          "id": "8-16-s3",
+          "publicName": "水前寺成趣园",
+          "latitude": 32.7906,
+          "longitude": 130.7338,
+          "time": "08:30–09:20",
+          "highlight": false,
+          "caption": "水前寺成趣园 · 08:30–09:20"
+        },
+        {
+          "id": "8-16-s4",
+          "publicName": "熊本县厅 / 路飞雕像",
+          "latitude": 32.7898,
+          "longitude": 130.7417,
+          "time": "09:20–09:50",
+          "highlight": true,
+          "caption": "熊本县厅 / 路飞雕像 · 09:20–09:50"
+        },
+        {
+          "id": "8-16-s5",
+          "publicName": "熊本熊广场",
+          "latitude": 32.8031,
+          "longitude": 130.7136,
+          "time": "10:30 排队 · 11:30 舞台",
+          "highlight": false,
+          "caption": "熊本熊广场 · 10:30 排队 · 11:30 舞台"
+        },
+        {
+          "id": "8-16-s6",
+          "publicName": "熊本市役所 14F",
+          "latitude": 32.8038,
+          "longitude": 130.708,
+          "time": "13:00",
+          "highlight": false,
+          "caption": "熊本市役所 14F · 13:00"
+        },
+        {
+          "id": "8-16-s7",
+          "publicName": "熊本城",
+          "latitude": 32.8062,
+          "longitude": 130.7058,
+          "time": "13:25–15:10",
+          "highlight": false,
+          "caption": "熊本城 · 13:25–15:10"
+        },
+        {
+          "id": "8-16-s8",
+          "publicName": "熊本站",
+          "latitude": 32.7904,
+          "longitude": 130.689,
+          "time": "15:50 左右行李整理",
+          "highlight": true,
+          "caption": "熊本站 · 15:50 左右行李整理"
+        },
+        {
+          "id": "8-16-s9",
+          "publicName": "鹿儿岛中央",
+          "latitude": 31.5837,
+          "longitude": 130.5411,
+          "time": "16 点档新干线",
+          "highlight": false,
+          "caption": "鹿儿岛中央 · 16 点档新干线"
+        },
+        {
+          "id": "8-16-s10",
+          "publicName": "Amuran",
+          "latitude": 31.5838,
+          "longitude": 130.5418,
+          "time": "摩天轮机动",
+          "highlight": false,
+          "caption": "Amuran · 摩天轮机动"
+        },
+        {
+          "id": "8-16-s11",
+          "publicName": "天文馆",
+          "latitude": 31.5906,
+          "longitude": 130.5531,
+          "time": "晚餐后行程节点",
+          "highlight": true,
+          "caption": "天文馆 · 晚餐后行程节点"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-16-s1",
+          "to": "8-16-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s2",
+          "to": "8-16-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s3",
+          "to": "8-16-s4",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s4",
+          "to": "8-16-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s5",
+          "to": "8-16-s6",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s6",
+          "to": "8-16-s7",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s7",
+          "to": "8-16-s8",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s8",
+          "to": "8-16-s9",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s9",
+          "to": "8-16-s10",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-16-s10",
+          "to": "8-16-s11",
+          "transport": "metro",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-16-s1",
+        "8-16-s4",
+        "8-16-s8",
+        "8-16-s11"
+      ]
+    },
+    {
+      "id": "8-17",
+      "episode": 13,
+      "date": "8.17",
+      "city": "鹿儿岛 / 宫崎",
+      "title": "仙岩园、樱岛与 18:39 きりしま",
+      "summary": "隔着锦江湾眺望樱岛，以渡轮、水族馆与雾岛列车连接宫崎。",
+      "route": "天文馆 → 仙岩园 → 水族馆 → 樱岛 → 鹿儿岛中央 → 宫崎",
+      "theme": {
+        "accent": "#165e78",
+        "warm": "#e95039",
+        "soft": "#5e9b61"
+      },
+      "artwork": "showcase-assets/art/day-13.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "轮渡",
+        "火山湾"
+      ],
+      "stops": [
+        {
+          "id": "8-17-s1",
+          "publicName": "天文馆",
+          "latitude": 31.5906,
+          "longitude": 130.5531,
+          "time": "08:15 行程节点行李整理",
+          "highlight": true,
+          "caption": "天文馆 · 08:15 行程节点行李整理"
+        },
+        {
+          "id": "8-17-s2",
+          "publicName": "仙岩园",
+          "latitude": 31.6177,
+          "longitude": 130.578,
+          "time": "09:00–10:30",
+          "highlight": false,
+          "caption": "仙岩园 · 09:00–10:30"
+        },
+        {
+          "id": "8-17-s3",
+          "publicName": "鹿儿岛水族馆",
+          "latitude": 31.5964,
+          "longitude": 130.5625,
+          "time": "12:00–13:30",
+          "highlight": true,
+          "caption": "鹿儿岛水族馆 · 12:00–13:30"
+        },
+        {
+          "id": "8-17-s4",
+          "publicName": "鹿儿岛港",
+          "latitude": 31.596,
+          "longitude": 130.5648,
+          "time": "13:45–14:00 渡轮",
+          "highlight": false,
+          "caption": "鹿儿岛港 · 13:45–14:00 渡轮"
+        },
+        {
+          "id": "8-17-s5",
+          "publicName": "樱岛 / 汤之平",
+          "latitude": 31.5876,
+          "longitude": 130.632,
+          "time": "Island View",
+          "highlight": false,
+          "caption": "樱岛 / 汤之平 · Island View"
+        },
+        {
+          "id": "8-17-s6",
+          "publicName": "天文馆",
+          "latitude": 31.5906,
+          "longitude": 130.5531,
+          "time": "17:00 行李整理",
+          "highlight": true,
+          "caption": "天文馆 · 17:00 行李整理"
+        },
+        {
+          "id": "8-17-s7",
+          "publicName": "鹿儿岛中央",
+          "latitude": 31.5837,
+          "longitude": 130.5411,
+          "time": "18:15 前到站台",
+          "highlight": false,
+          "caption": "鹿儿岛中央 · 18:15 前到站台"
+        },
+        {
+          "id": "8-17-s8",
+          "publicName": "宫崎站",
+          "latitude": 31.9156,
+          "longitude": 131.432,
+          "time": "18:39–20:57 特急",
+          "highlight": true,
+          "caption": "宫崎站 · 18:39–20:57 特急"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-17-s1",
+          "to": "8-17-s2",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s2",
+          "to": "8-17-s3",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s3",
+          "to": "8-17-s4",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s4",
+          "to": "8-17-s5",
+          "transport": "ferry",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s5",
+          "to": "8-17-s6",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s6",
+          "to": "8-17-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-17-s7",
+          "to": "8-17-s8",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-17-s1",
+        "8-17-s3",
+        "8-17-s6",
+        "8-17-s8"
+      ]
+    },
+    {
+      "id": "8-18",
+      "episode": 14,
+      "date": "8.18",
+      "city": "宫崎 / 日南海岸",
+      "title": "三段巴士硬节点与晚餐后的夜间机动",
+      "summary": "沿日南海岸拜访崖壁神宫、摩艾与青岛的南国海风。",
+      "route": "宫崎站 → 鹈户神宫 → Sun Messe → 青岛 → 宫崎夜景",
+      "theme": {
+        "accent": "#187ca4",
+        "warm": "#ed5f4e",
+        "soft": "#7fcf91"
+      },
+      "artwork": "showcase-assets/art/day-14.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "日南海岸",
+        "神社"
+      ],
+      "stops": [
+        {
+          "id": "8-18-s1",
+          "publicName": "宫崎站",
+          "latitude": 31.9156,
+          "longitude": 131.432,
+          "time": "09:10 下楼",
+          "highlight": true,
+          "caption": "宫崎站 · 09:10 下楼"
+        },
+        {
+          "id": "8-18-s2",
+          "publicName": "宫崎站巴士中心",
+          "latitude": 31.9151,
+          "longitude": 131.4313,
+          "time": "09:40 发车",
+          "highlight": false,
+          "caption": "宫崎站巴士中心 · 09:40 发车"
+        },
+        {
+          "id": "8-18-s3",
+          "publicName": "鹈户神宫",
+          "latitude": 31.6502,
+          "longitude": 131.4664,
+          "time": "11:07–13:22",
+          "highlight": false,
+          "caption": "鹈户神宫 · 11:07–13:22"
+        },
+        {
+          "id": "8-18-s4",
+          "publicName": "Sun Messe",
+          "latitude": 31.6885,
+          "longitude": 131.465,
+          "time": "13:27–15:31",
+          "highlight": true,
+          "caption": "Sun Messe · 13:27–15:31"
+        },
+        {
+          "id": "8-18-s5",
+          "publicName": "青岛",
+          "latitude": 31.803,
+          "longitude": 131.4754,
+          "time": "16:00–17 点档",
+          "highlight": false,
+          "caption": "青岛 · 16:00–17 点档"
+        },
+        {
+          "id": "8-18-s6",
+          "publicName": "宫崎站",
+          "latitude": 31.9156,
+          "longitude": 131.432,
+          "time": "18:00 左右休息",
+          "highlight": false,
+          "caption": "宫崎站 · 18:00 左右休息"
+        },
+        {
+          "id": "8-18-s7",
+          "publicName": "橘通りミヤチク APAS",
+          "latitude": 31.914,
+          "longitude": 131.423,
+          "time": "19:00 晚餐",
+          "highlight": true,
+          "caption": "橘通りミヤチク APAS · 19:00 晚餐"
+        },
+        {
+          "id": "8-18-s8",
+          "publicName": "大淀川",
+          "latitude": 31.906,
+          "longitude": 131.417,
+          "time": "餐后短散步",
+          "highlight": false,
+          "caption": "大淀川 · 餐后短散步"
+        },
+        {
+          "id": "8-18-s9",
+          "publicName": "平和台公园",
+          "latitude": 31.939,
+          "longitude": 131.414,
+          "time": "21:00 出租车机动",
+          "highlight": false,
+          "caption": "平和台公园 · 21:00 出租车机动"
+        },
+        {
+          "id": "8-18-s10",
+          "publicName": "宫崎站",
+          "latitude": 31.9156,
+          "longitude": 131.432,
+          "time": "出租车返回",
+          "highlight": true,
+          "caption": "宫崎站 · 出租车返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-18-s1",
+          "to": "8-18-s2",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s2",
+          "to": "8-18-s3",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s3",
+          "to": "8-18-s4",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s4",
+          "to": "8-18-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s5",
+          "to": "8-18-s6",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s6",
+          "to": "8-18-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s7",
+          "to": "8-18-s8",
+          "transport": "walk",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s8",
+          "to": "8-18-s9",
+          "transport": "taxi",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-18-s9",
+          "to": "8-18-s10",
+          "transport": "taxi",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-18-s1",
+        "8-18-s4",
+        "8-18-s7",
+        "8-18-s10"
+      ]
+    },
+    {
+      "id": "8-19",
+      "episode": 15,
+      "date": "8.19",
+      "city": "宫崎 / 福冈",
+      "title": "B&S 308 号经新八代，上午抵达博多",
+      "summary": "乘 B&S 经新八代换乘新干线，上午抵达福冈并登上福冈塔。",
+      "route": "宫崎 → 新八代 → 博多 → 赤坂行李整理 → 福冈塔 → 天神",
+      "theme": {
+        "accent": "#173e72",
+        "warm": "#f0ae50",
+        "soft": "#8654a8"
+      },
+      "artwork": "showcase-assets/art/day-15.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "B&S",
+        "福冈塔"
+      ],
+      "stops": [
+        {
+          "id": "8-19-s1",
+          "publicName": "宫崎站",
+          "latitude": 31.9156,
+          "longitude": 131.432,
+          "time": "04:45 行程节点",
+          "highlight": true,
+          "caption": "宫崎站 · 04:45 行程节点"
+        },
+        {
+          "id": "8-19-s2",
+          "publicName": "宫崎站西口 B 乘车处",
+          "latitude": 31.9154,
+          "longitude": 131.4305,
+          "time": "05:15 B&S 308 号",
+          "highlight": false,
+          "caption": "宫崎站西口 B 乘车处 · 05:15 B&S 308 号"
+        },
+        {
+          "id": "8-19-s3",
+          "publicName": "新八代站",
+          "latitude": 32.5183,
+          "longitude": 130.6345,
+          "time": "07:38 到 · 07:55 换乘",
+          "highlight": false,
+          "caption": "新八代站 · 07:38 到 · 07:55 换乘"
+        },
+        {
+          "id": "8-19-s4",
+          "publicName": "博多站",
+          "latitude": 33.5902,
+          "longitude": 130.4207,
+          "time": "つばめ308号 · 09:01 到",
+          "highlight": true,
+          "caption": "博多站 · つばめ308号 · 09:01 到"
+        },
+        {
+          "id": "8-19-s5",
+          "publicName": "赤坂",
+          "latitude": 33.5898,
+          "longitude": 130.3905,
+          "time": "09:40–10:00 行李整理",
+          "highlight": false,
+          "caption": "赤坂 · 09:40–10:00 行李整理"
+        },
+        {
+          "id": "8-19-s6",
+          "publicName": "福冈塔 / 百道海滨",
+          "latitude": 33.5932,
+          "longitude": 130.3515,
+          "time": "10:55–12:30",
+          "highlight": false,
+          "caption": "福冈塔 / 百道海滨 · 10:55–12:30"
+        },
+        {
+          "id": "8-19-s7",
+          "publicName": "赤坂",
+          "latitude": 33.5898,
+          "longitude": 130.3905,
+          "time": "15:00 行程节点休息",
+          "highlight": true,
+          "caption": "赤坂 · 15:00 行程节点休息"
+        },
+        {
+          "id": "8-19-s8",
+          "publicName": "ACROS / 天神 / 大名",
+          "latitude": 33.5906,
+          "longitude": 130.4014,
+          "time": "16:30–19:00",
+          "highlight": false,
+          "caption": "ACROS / 天神 / 大名 · 16:30–19:00"
+        },
+        {
+          "id": "8-19-s9",
+          "publicName": "中洲屋台",
+          "latitude": 33.5914,
+          "longitude": 130.407,
+          "time": "晚餐；一蘭备选",
+          "highlight": false,
+          "caption": "中洲屋台 · 晚餐；一蘭备选"
+        },
+        {
+          "id": "8-19-s10",
+          "publicName": "赤坂",
+          "latitude": 33.5898,
+          "longitude": 130.3905,
+          "time": "晚间返回",
+          "highlight": true,
+          "caption": "赤坂 · 晚间返回"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-19-s1",
+          "to": "8-19-s2",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s2",
+          "to": "8-19-s3",
+          "transport": "bus",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s3",
+          "to": "8-19-s4",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s4",
+          "to": "8-19-s5",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s5",
+          "to": "8-19-s6",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s6",
+          "to": "8-19-s7",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s7",
+          "to": "8-19-s8",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s8",
+          "to": "8-19-s9",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-19-s9",
+          "to": "8-19-s10",
+          "transport": "metro",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-19-s1",
+        "8-19-s4",
+        "8-19-s7",
+        "8-19-s10"
+      ]
+    },
+    {
+      "id": "8-20",
+      "episode": 16,
+      "date": "8.20",
+      "city": "福冈 / 回国",
+      "title": "LaLaport 开门即进，15:40 前到国际线",
+      "summary": "在 LaLaport 留下最后一帧，随后前往机场与盛夏告别。",
+      "route": "赤坂 → 竹下 / LaLaport → 赤坂行李整理 → 福冈机场国际线",
+      "theme": {
+        "accent": "#0c2852",
+        "warm": "#f0b556",
+        "soft": "#d082a7"
+      },
+      "artwork": "showcase-assets/art/day-16.webp",
+      "storyDuration": 4.75,
+      "tags": [
+        "离境",
+        "终章"
+      ],
+      "stops": [
+        {
+          "id": "8-20-s1",
+          "publicName": "赤坂",
+          "latitude": 33.5898,
+          "longitude": 130.3905,
+          "time": "09:00 行程节点行李整理",
+          "highlight": true,
+          "caption": "赤坂 · 09:00 行程节点行李整理"
+        },
+        {
+          "id": "8-20-s2",
+          "publicName": "博多站",
+          "latitude": 33.5902,
+          "longitude": 130.4207,
+          "time": "地下铁换 JR",
+          "highlight": false,
+          "caption": "博多站 · 地下铁换 JR"
+        },
+        {
+          "id": "8-20-s3",
+          "publicName": "竹下站",
+          "latitude": 33.5688,
+          "longitude": 130.4317,
+          "time": "步行去 LaLaport",
+          "highlight": true,
+          "caption": "竹下站 · 步行去 LaLaport"
+        },
+        {
+          "id": "8-20-s4",
+          "publicName": "LaLaport Fukuoka",
+          "latitude": 33.5664,
+          "longitude": 130.441,
+          "time": "10:00–12:50",
+          "highlight": false,
+          "caption": "LaLaport Fukuoka · 10:00–12:50"
+        },
+        {
+          "id": "8-20-s5",
+          "publicName": "赤坂",
+          "latitude": 33.5898,
+          "longitude": 130.3905,
+          "time": "13:40–14:10 行李整理",
+          "highlight": true,
+          "caption": "赤坂 · 13:40–14:10 行李整理"
+        },
+        {
+          "id": "8-20-s6",
+          "publicName": "福冈机场国内线",
+          "latitude": 33.5972,
+          "longitude": 130.4487,
+          "time": "地下铁到站",
+          "highlight": false,
+          "caption": "福冈机场国内线 · 地下铁到站"
+        },
+        {
+          "id": "8-20-s7",
+          "publicName": "福冈机场国际线",
+          "latitude": 33.5859,
+          "longitude": 130.4506,
+          "time": "免费接驳 · 15:15–15:40 到",
+          "highlight": true,
+          "caption": "福冈机场国际线 · 免费接驳 · 15:15–15:40 到"
+        }
+      ],
+      "legs": [
+        {
+          "from": "8-20-s1",
+          "to": "8-20-s2",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-20-s2",
+          "to": "8-20-s3",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-20-s3",
+          "to": "8-20-s4",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-20-s4",
+          "to": "8-20-s5",
+          "transport": "metro",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-20-s5",
+          "to": "8-20-s6",
+          "transport": "rail",
+          "durationWeight": 1.0
+        },
+        {
+          "from": "8-20-s6",
+          "to": "8-20-s7",
+          "transport": "rail",
+          "durationWeight": 1.0
+        }
+      ],
+      "storyBeats": [
+        "8-20-s1",
+        "8-20-s3",
+        "8-20-s5",
+        "8-20-s7"
+      ]
+    }
+  ]
+}
